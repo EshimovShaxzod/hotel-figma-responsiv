@@ -103,7 +103,7 @@
 
 @media screen and (max-width:576px) {
     .container{
-        max-width: 94%;
+        max-width: 98%;
     }
     .nav_list{
         display: none;
@@ -139,7 +139,7 @@
 }
 @media screen and (max-width:450px) {
     .container{
-        max-width: 90%;
+        max-width: 98%;
         /* padding: 0 5px; */
         overflow-x: none;
     }
